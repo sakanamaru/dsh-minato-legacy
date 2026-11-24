@@ -1,3 +1,7 @@
+> **This repository is the legacy v3 tree (frozen at v3.3.0).**
+> Active development moved to **https://github.com/sakanamaru/dsh-minato** (v4: `dsht` toolbox + HUD).
+> v3 releases below remain downloadable.
+
 # DeepSeek Harness Toolkit — `dsh-minato`
 
 **A no-terminal-needed installer, monitor, backup and repair toolbox for DeepSeek Harness (dsh).**
